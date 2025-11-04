@@ -3,6 +3,8 @@
 This repository contains beginner-friendly Kotlin programs that cover the core concepts of the language.  
 It’s designed to help you understand Kotlin syntax, logic building, and practical coding examples.
 
+A collection of Kotlin basics programs covering syntax, variables, functions, classes, and control structures. Perfect for beginners learning Kotlin fundamentals and practical examples.
+
 ---
 
 ## 📘 Topics Covered
