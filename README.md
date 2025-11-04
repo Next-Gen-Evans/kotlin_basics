@@ -23,8 +23,7 @@ It’s designed to help you understand Kotlin syntax, logic building, and practi
    ```bash
    git clone https://github.com/Next-Gen-Evans/Kotlin-Basics.git
 
-   ---
-   
-   <div align="center">
+---
 
+## END
 ### 🌟 **Thanks for Visiting!** 🌟
