@@ -22,6 +22,9 @@ It’s designed to help you understand Kotlin syntax, logic building, and practi
 2. Clone this repository:  
    ```bash
    git clone https://github.com/Next-Gen-Evans/Kotlin-Basics.git
+
+   ---
+   
    <div align="center">
 
 ### 🌟 **Thanks for Visiting!** 🌟
