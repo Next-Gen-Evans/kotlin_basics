@@ -26,4 +26,5 @@ It’s designed to help you understand Kotlin syntax, logic building, and practi
 ---
 
 ## END
+<div align="center">
 ### 🌟 **Thanks for Visiting!** 🌟
